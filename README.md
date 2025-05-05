@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Jamuna Ramesh!
 
 👀 **I'm interested in coding and development.**  
-🌱 **I'm currently learning:** Java, HTML, CSS.  
+🌱 **I'm currently learning:** Java,Python, HTML, CSS.  
 💻 **I'm passionate about:** web development, software engineering, and problem-solving.  
 🎓 **Currently studying:** Electronics and Communication Engineering at SRM Valliammai Engineering College.  
 
@@ -9,7 +9,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Java, HTML, CSS  
+- **Languages:** Java,Python, HTML, CSS  
 - **Tools:** Git, VSCode  
 - **Frameworks:** Bootstrap (or any other relevant tools/frameworks)
 
